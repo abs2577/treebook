@@ -1,0 +1,2 @@
+module StatusUsersHelper
+end
